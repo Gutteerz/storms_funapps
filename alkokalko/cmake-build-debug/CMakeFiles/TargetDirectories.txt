@@ -1,0 +1,3 @@
+C:/Users/selvi/PersProjects/alkokalko/cmake-build-debug/CMakeFiles/alkokalko.dir
+C:/Users/selvi/PersProjects/alkokalko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/selvi/PersProjects/alkokalko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
